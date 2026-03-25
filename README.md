@@ -1,5 +1,7 @@
 # The Soccer Stats 2.0
 
+## NOTE!! Work in progress...
+
 Modern block-based WordPress plugin for football statistics.
 
 ## Build
