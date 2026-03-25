@@ -1,0 +1,24 @@
+{
+  "apiVersion": 3,
+  "name": "tss/season-match-list",
+  "title": "Season Match List",
+  "category": "widgets",
+  "icon": "list-view",
+  "description": "Render a season match list anywhere.",
+  "textdomain": "tss",
+  "attributes": {
+    "seasonId": {
+      "type": "number",
+      "default": 0
+    },
+    "matchTypeId": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "editorScript": "tss-editor",
+  "render": "file:./render.php",
+  "supports": {
+    "html": false
+  }
+}

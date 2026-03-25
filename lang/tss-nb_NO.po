@@ -1,0 +1,785 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: tss-no\n"
+"Language: nb\n"
+
+#: ajax/ajax-admin.php:50 ajax/ajax-admin.php:270 meta-boxes/players.php:168
+msgid "Player added to following seasons:"
+msgstr "Spiller lagt til i følgende sesonger:"
+
+#: ajax/ajax-admin.php:106 ajax/ajax-admin.php:316 meta-boxes/matches.php:247
+msgid "Substitutions:"
+msgstr "Innbyttere:"
+
+#: ajax/ajax-admin.php:168 ajax/ajax-admin.php:319 meta-boxes/matches.php:269
+msgid "Goals:"
+msgstr "Mål:"
+
+#: ajax/ajax-admin.php:228 ajax/ajax-admin.php:322 meta-boxes/matches.php:288
+msgid "Yellow cards:"
+msgstr "Gule kort:"
+
+#: ajax/ajax-admin.php:230 ajax/ajax-admin.php:325 meta-boxes/matches.php:307
+msgid "Red cards:"
+msgstr "Røde kort:"
+
+#: ajax/ajax-admin.php:310 ajax/ajax-admin.php:385 meta-boxes/matches.php:205
+msgid "Current opening lineup:"
+msgstr "Lagoppstilling:"
+
+#: ajax/ajax-admin.php:313 ajax/ajax-admin.php:387 meta-boxes/matches.php:222
+msgid "Substitutes:"
+msgstr "Innbyttere:"
+
+#: classes/tssOpponentStats.php:29 meta-boxes/matches.php:59
+msgid "Location"
+msgstr "Sted"
+
+#: classes/tssOpponentStats.php:30
+msgid "W"
+msgstr "V"
+
+#: classes/tssOpponentStats.php:31
+msgid "D"
+msgstr "U"
+
+#: classes/tssOpponentStats.php:32
+msgid "L"
+msgstr "T"
+
+#: classes/tssOpponentStats.php:33
+msgid "GD"
+msgstr ""
+
+#: classes/tssOpponentStats.php:39 meta-boxes/matches.php:64
+msgid "Home"
+msgstr "Hjemme"
+
+#: classes/tssOpponentStats.php:47 meta-boxes/matches.php:65
+msgid "Away"
+msgstr "Borte"
+
+#: classes/tssOpponentStats.php:55 meta-boxes/matches.php:66
+msgid "Neutral"
+msgstr "Nøytral"
+
+#: classes/tssOpponentStats.php:66 classes/tssOpponentStats.php:409
+#: classes/tssPlayerSeasonalStatsTable.php:94 functions/players.php:151
+msgid "Total"
+msgstr "Total"
+
+#: classes/tssOpponentStats.php:79
+msgid "Matches against this opponent"
+msgstr "Kamper mot denne motstanderen"
+
+#: classes/tssOpponentStats.php:83 classes/tssSeasonMatchList.php:33
+#: functions/get-matches-by-player.php:137 meta-boxes/matches.php:49
+msgid "Date"
+msgstr "Dato"
+
+#: classes/tssOpponentStats.php:84 classes/tssSeasonMatchList.php:34
+#: functions/get-matches-by-player.php:138
+msgid "Hometeam"
+msgstr "Hjemmelag"
+
+#: classes/tssOpponentStats.php:85 classes/tssSeasonMatchList.php:35
+#: functions/get-matches-by-player.php:139
+msgid "Awayteam"
+msgstr "Bortelag"
+
+#: classes/tssOpponentStats.php:86 classes/tssSeasonMatchList.php:36
+#: functions/get-matches-by-player.php:140
+msgid "Matchtype"
+msgstr "Kamptype"
+
+#: classes/tssOpponentStats.php:87 classes/tssSeasonMatchList.php:37
+#: functions/get-matches-by-player.php:141
+msgid "Result"
+msgstr "Resultat"
+
+#: classes/tssPlayerSeasonalStatsTable.php:27 meta-boxes/matches.php:87
+#: post-types/post-types.php:22 post-types/post-types.php:24
+msgid "Season"
+msgstr "Sesong"
+
+#: classes/tssPlayerSeasonalStatsTable.php:28
+#: classes/tssplayerstatstable.php:29
+msgid "Starts"
+msgstr "Starter"
+
+#: classes/tssPlayerSeasonalStatsTable.php:29
+#: classes/tssplayerstatstable.php:30
+msgid "Substitutions in"
+msgstr "Innbytter i"
+
+#: classes/tssPlayerSeasonalStatsTable.php:30
+#: classes/tssplayerstatstable.php:31 functions/matches.php:127
+#: functions/matches.php:164 meta-boxes/matches.php:255
+#: meta-boxes/matches.php:352
+msgid "Goals"
+msgstr "Mål"
+
+#: classes/tssPlayerSeasonalStatsTable.php:31
+#: classes/tssplayerstatstable.php:32 functions/matches.php:140
+#: functions/matches.php:166 meta-boxes/matches.php:277
+#: meta-boxes/matches.php:357
+msgid "Yellow cards"
+msgstr "Gule kort"
+
+#: classes/tssPlayerSeasonalStatsTable.php:32
+#: classes/tssplayerstatstable.php:33 functions/matches.php:144
+#: functions/matches.php:168 meta-boxes/matches.php:296
+#: meta-boxes/matches.php:362
+msgid "Red cards"
+msgstr "Røde kort"
+
+#: classes/tssSeasonMatchList.php:29 post-types/post-types.php:155
+#: post-types/post-types.php:157
+msgid "Matches"
+msgstr "Kamper"
+
+#: classes/tssfilter.php:22
+msgid "Filter by match type.."
+msgstr "Filtrer på kamptype.."
+
+#: classes/tssplayerstatstable.php:24 post-types/post-types.php:111
+#: post-types/post-types.php:113
+msgid "Players"
+msgstr "Spillere"
+
+#: functions/admin-related-functions.php:33
+#: functions/admin-related-functions.php:131
+#: functions/admin-related-functions.php:173
+#: functions/admin-related-functions.php:227
+#: functions/admin-related-functions.php:268
+msgid "Delete"
+msgstr "Slett"
+
+#: functions/admin-related-functions.php:37
+#: functions/admin-related-functions.php:69
+#: functions/admin-related-functions.php:135
+#: functions/admin-related-functions.php:179
+#: functions/admin-related-functions.php:233
+#: functions/admin-related-functions.php:274
+msgid "Nothing found from database"
+msgstr "Ingenting funnet i databasen"
+
+#: functions/admin-related-functions.php:169
+msgid "In: "
+msgstr "Inn:"
+
+#: functions/admin-related-functions.php:170
+msgid "Out: "
+msgstr "Ut:"
+
+#: functions/admin-related-functions.php:171
+msgid "Minute: "
+msgstr "Minutter:"
+
+#: functions/admin-related-functions.php:216 functions/matches.php:132
+msgid "pen."
+msgstr "str."
+
+#: functions/admin-related-functions.php:220 functions/matches.php:136
+msgid "O.G."
+msgstr "S.M."
+
+#: functions/get-matches-by-player.php:159
+msgid "None"
+msgstr "Ingen"
+
+#: functions/matches.php:115 functions/matches.php:158
+#: meta-boxes/matches.php:196 meta-boxes/matches.php:337
+msgid "Starters"
+msgstr "Startoppstilling"
+
+#: functions/matches.php:119 functions/matches.php:160
+#: meta-boxes/matches.php:213 meta-boxes/matches.php:342
+msgid "Substitutes"
+msgstr "Innbyttere"
+
+#: functions/matches.php:123 functions/matches.php:162
+#: meta-boxes/matches.php:230 meta-boxes/matches.php:347
+msgid "Substitutions"
+msgstr "Innbytter"
+
+#: functions/matches.php:198
+msgid "FT"
+msgstr "FT"
+
+#: functions/matches.php:201 functions/matches.php:247
+msgid "AET"
+msgstr "EEO"
+
+#: functions/matches.php:205 functions/matches.php:249
+msgid "PEN."
+msgstr "STR."
+
+#: functions/players.php:79 meta-boxes/players.php:89
+msgid "Goalkeeper"
+msgstr "Målmann"
+
+#: functions/players.php:82 meta-boxes/players.php:92
+msgid "Defender"
+msgstr "Forsvarer"
+
+#: functions/players.php:85 meta-boxes/players.php:95
+msgid "Midfield"
+msgstr "Midtbane"
+
+#: functions/players.php:88 meta-boxes/players.php:98
+msgid "Striker"
+msgstr "Spiss"
+
+#: meta-boxes/matches.php:24
+msgid "Match details"
+msgstr "Kamp detaljer"
+
+#: meta-boxes/matches.php:25
+msgid "Opponent details"
+msgstr "Motstander detaljer"
+
+#: meta-boxes/matches.php:28
+msgid "Your team stats"
+msgstr "Ditt lags statestikk"
+
+#: meta-boxes/matches.php:54
+msgid "Time"
+msgstr "Tid"
+
+#: meta-boxes/matches.php:101 post-types/post-types.php:200
+#: post-types/post-types.php:202
+msgid "Match type"
+msgstr "Kamptype"
+
+#: meta-boxes/matches.php:115
+msgid "Additional match type"
+msgstr "Tilleggs kamptype"
+
+#: meta-boxes/matches.php:122 templates/single-tss-matches.php:43
+msgid "Attendance"
+msgstr "Tilskuere"
+
+#: meta-boxes/matches.php:129 post-types/post-types.php:67
+#: post-types/post-types.php:69
+msgid "Opponent"
+msgstr "Motstander"
+
+#: meta-boxes/matches.php:143
+msgid "Goals for"
+msgstr "Mål for"
+
+#: meta-boxes/matches.php:148
+msgid "Goals against"
+msgstr "Mål imot"
+
+#: meta-boxes/matches.php:153
+msgid "Overtime"
+msgstr "Overtid"
+
+#: meta-boxes/matches.php:158
+msgid "Penalties"
+msgstr "Straffer"
+
+#: meta-boxes/matches.php:159
+msgid "Show/hide pen. goals"
+msgstr "Vis/gjem str. mål"
+
+#: meta-boxes/matches.php:164
+msgid "Goals for (pen.)"
+msgstr "Mål for (str.)"
+
+#: meta-boxes/matches.php:169
+msgid "Goals against (pen.)"
+msgstr "Mål mot (str.)"
+
+#: meta-boxes/matches.php:191
+msgid "Calculate stats from this match"
+msgstr "Kalkuler statistikk fra denne kampen"
+
+#: meta-boxes/matches.php:202 meta-boxes/matches.php:219
+#: meta-boxes/matches.php:244 meta-boxes/matches.php:266
+#: meta-boxes/matches.php:285 meta-boxes/matches.php:304
+#: meta-boxes/players.php:164
+msgid "Add"
+msgstr "Legg til"
+
+#: meta-boxes/matches.php:232
+msgid "In"
+msgstr "Inn"
+
+#: meta-boxes/matches.php:238
+msgid "Out"
+msgstr "Ut"
+
+#: meta-boxes/matches.php:243 meta-boxes/matches.php:262
+#: meta-boxes/matches.php:284 meta-boxes/matches.php:303
+msgid "Minute"
+msgstr "Minutter"
+
+#: meta-boxes/matches.php:257
+msgid "Goal scorer:"
+msgstr "Målscorer"
+
+#: meta-boxes/matches.php:263
+msgid "Penalty"
+msgstr "Straffe"
+
+#: meta-boxes/matches.php:264
+msgid "Own goal"
+msgstr "Selvmål"
+
+#: meta-boxes/matches.php:265
+msgid "Own scorer"
+msgstr "Egen målscorer"
+
+#: meta-boxes/matches.php:332
+msgid "Want to show opponent stats"
+msgstr "Vil du vise statistikk for motstander"
+
+#: meta-boxes/players.php:24
+msgid "Player details"
+msgstr "Spillerdetaljer"
+
+#: meta-boxes/players.php:27
+msgid "Add player to season"
+msgstr "Legg spiller til sesong"
+
+#: meta-boxes/players.php:47
+msgid "Shirt number"
+msgstr "Draktnummer"
+
+#: meta-boxes/players.php:52
+msgid "Place of birth"
+msgstr "Fødselssted"
+
+#: meta-boxes/players.php:57
+msgid "Height"
+msgstr "Høyde"
+
+#: meta-boxes/players.php:62
+msgid "Weight"
+msgstr "Vekt"
+
+#: meta-boxes/players.php:67
+msgid "Date of birth"
+msgstr "Fødselsdato"
+
+#: meta-boxes/players.php:74
+msgid "Player position"
+msgstr "Spillers posisjon"
+
+#: meta-boxes/players.php:122
+msgid "Previous clubs"
+msgstr "Tidligere klubber"
+
+#: meta-boxes/players.php:141
+msgid "Add or remover player to season."
+msgstr "Legg til eller fjern spiller fra sesong."
+
+#: post-types/post-types.php:21 post-types/post-types.php:23
+msgid "Seasons"
+msgstr "Sesonger"
+
+#: post-types/post-types.php:25 post-types/post-types.php:70
+#: post-types/post-types.php:115 post-types/post-types.php:159
+#: post-types/post-types.php:203
+msgid "Add New"
+msgstr "Legg til ny"
+
+#: post-types/post-types.php:26
+msgid "Add New Season"
+msgstr "Legg til ny sesong"
+
+#: post-types/post-types.php:27
+msgid "New Season"
+msgstr "Ny sesong"
+
+#: post-types/post-types.php:28
+msgid "Edit Season"
+msgstr "Editer sesong"
+
+#: post-types/post-types.php:29
+msgid "View Season"
+msgstr "Vis sesong"
+
+#: post-types/post-types.php:30
+msgid "All Seasons"
+msgstr "Alle sesonger"
+
+#: post-types/post-types.php:31
+msgid "Search Seasons"
+msgstr "Søk i sesonger"
+
+#: post-types/post-types.php:32
+msgid "Parent Seasons:"
+msgstr "Ordnede sesonger:"
+
+#: post-types/post-types.php:33
+msgid "No Seasons found."
+msgstr "Ingen sesonger funnet."
+
+#: post-types/post-types.php:34
+msgid "No Seasons found in Trash."
+msgstr "Ingen sesonger funnet i søppelkurv."
+
+#: post-types/post-types.php:39
+msgid "The Soccer Stats seasons."
+msgstr "The Soccer Stats sesonger"
+
+#: post-types/post-types.php:45
+msgid "season"
+msgstr "sesong"
+
+#: post-types/post-types.php:66 post-types/post-types.php:68
+msgid "Opponents"
+msgstr "Motstandere"
+
+#: post-types/post-types.php:71
+msgid "Add New Opponent"
+msgstr "Legg til ny motstander"
+
+#: post-types/post-types.php:72
+msgid "New Opponent"
+msgstr "Ny motstander"
+
+#: post-types/post-types.php:73
+msgid "Edit Opponent"
+msgstr "Editer motstander"
+
+#: post-types/post-types.php:74
+msgid "View Opponent"
+msgstr "Vis motstander"
+
+#: post-types/post-types.php:75
+msgid "All Opponents"
+msgstr "Alle motstandere"
+
+#: post-types/post-types.php:76
+msgid "Search Opponents"
+msgstr "Søk i motstandere"
+
+#: post-types/post-types.php:77
+msgid "Parent Opponents:"
+msgstr "Ordnede motstandere:"
+
+#: post-types/post-types.php:78
+msgid "No Opponents found."
+msgstr "Ingen motstander funnet."
+
+#: post-types/post-types.php:79
+msgid "No Opponents found in Trash."
+msgstr "Ingen motstander funnet i søppelkurv."
+
+#: post-types/post-types.php:84
+msgid "The Soccer Stats opponents."
+msgstr "The Soccer Stats motstandere."
+
+#: post-types/post-types.php:90
+msgid "opponent"
+msgstr "motstander"
+
+#: post-types/post-types.php:112 post-types/post-types.php:114
+msgid "Player"
+msgstr "Spiller"
+
+#: post-types/post-types.php:116
+msgid "Add New Player"
+msgstr "Legg til ny spiller"
+
+#: post-types/post-types.php:117
+msgid "New Player"
+msgstr "Ny spiller"
+
+#: post-types/post-types.php:118
+msgid "Edit Player"
+msgstr "Editer spiller"
+
+#: post-types/post-types.php:119
+msgid "View Player"
+msgstr "Vis spiller"
+
+#: post-types/post-types.php:120
+msgid "All Players"
+msgstr "Alle spillere"
+
+#: post-types/post-types.php:121
+msgid "Search Players"
+msgstr "Søk i spillere"
+
+#: post-types/post-types.php:122
+msgid "Parent Players:"
+msgstr "Ordnede spillere:"
+
+#: post-types/post-types.php:123
+msgid "No Players found."
+msgstr "Ingen spillere funnet."
+
+#: post-types/post-types.php:124
+msgid "No Players found in Trash."
+msgstr "Ingen spillere funnet i søppelkurv."
+
+#: post-types/post-types.php:129
+msgid "The Soccer Stats players."
+msgstr "The Soccer Stats spillere."
+
+#: post-types/post-types.php:135
+msgid "player"
+msgstr "spiller"
+
+#: post-types/post-types.php:156 post-types/post-types.php:158
+msgid "Match"
+msgstr "Kamp"
+
+#: post-types/post-types.php:160
+msgid "Add New Match"
+msgstr "Legg til ny kamp"
+
+#: post-types/post-types.php:161
+msgid "New Match"
+msgstr "Ny kamp"
+
+#: post-types/post-types.php:162
+msgid "Edit Match"
+msgstr "Editer kamp"
+
+#: post-types/post-types.php:163
+msgid "View Match"
+msgstr "Vis kamp"
+
+#: post-types/post-types.php:164
+msgid "All Matches"
+msgstr "Alle kamper"
+
+#: post-types/post-types.php:165
+msgid "Search Matches"
+msgstr "Søk i kamper"
+
+#: post-types/post-types.php:166
+msgid "Parent Matches:"
+msgstr "Ordnede kamper:"
+
+#: post-types/post-types.php:167
+msgid "No matches found."
+msgstr "Ingen kamper funnet."
+
+#: post-types/post-types.php:168
+msgid "No matches found in Trash."
+msgstr "Ingen kamper funnet i søppelkurv."
+
+#: post-types/post-types.php:173
+msgid "The Soccer Stats Matches."
+msgstr "The Soccer Stats kamper."
+
+#: post-types/post-types.php:179
+msgid "match"
+msgstr "kamp"
+
+#: post-types/post-types.php:199 post-types/post-types.php:201
+msgid "Match types"
+msgstr "Kamptyper"
+
+#: post-types/post-types.php:204
+msgid "Add New Match Type"
+msgstr "Legg til ny kamptype"
+
+#: post-types/post-types.php:205
+msgid "New Match Type"
+msgstr "Ny kamptype"
+
+#: post-types/post-types.php:206
+msgid "Edit Match Type"
+msgstr "Editer kamptyper"
+
+#: post-types/post-types.php:207
+msgid "View Match Type"
+msgstr "Vis kamptyper"
+
+#: post-types/post-types.php:208
+msgid "All Match Types"
+msgstr "Alle kamptyper"
+
+#: post-types/post-types.php:209
+msgid "Search Match Types"
+msgstr "Søk i kamptyper"
+
+#: post-types/post-types.php:210
+msgid "Parent Match Types:"
+msgstr "Ordnede kamptyper:"
+
+#: post-types/post-types.php:211
+msgid "No Match Types found."
+msgstr "Ingen kamptyper funnet."
+
+#: post-types/post-types.php:212
+msgid "No Match Types found in Trash."
+msgstr "Ingen kamptyper funnet i søppelkurv."
+
+#: post-types/post-types.php:217
+msgid "The Soccer Stats match types."
+msgstr "The Soccer Stats kamptyper."
+
+#: post-types/post-types.php:223
+msgid "matchtype"
+msgstr "kamptype"
+
+#: settings/settings.php:27
+msgid "Settings for The Soccer Stats"
+msgstr "Innstillinger for The Soccer Stats"
+
+#: settings/settings.php:40
+msgid "The Soccer Stats options"
+msgstr "The Soccer Stats alternativer"
+
+#: settings/settings.php:41
+msgid "My team?"
+msgstr "Mitt lag?"
+
+#: settings/settings.php:42
+msgid "How to show the content in site?"
+msgstr "Hvordan vise innholdet på nettstedet?"
+
+#: settings/settings.php:43
+msgid "Do you have Bootstrap installed to your theme?"
+msgstr "Har du Bootstrap innstallert i ditt tema?"
+
+#: settings/settings.php:44
+msgid "Date settings?"
+msgstr "Dato innstillinger"
+
+#: settings/settings.php:45
+msgid "The Soccer Stats installation"
+msgstr "The Soccer Stats installering"
+
+#: settings/settings.php:46
+msgid "Rebuild match titles"
+msgstr "Gjenoppbygg kamptitler"
+
+#: settings/settings.php:89
+msgid "Use container - content is fixed based on window width"
+msgstr "Bruk kontainer - innhold er fast basert på vindusvidden"
+
+#: settings/settings.php:90
+msgid "Whole width"
+msgstr "Hele vidden"
+
+#: settings/settings.php:122
+msgid "Yes"
+msgstr "Ja"
+
+#: settings/settings.php:123
+msgid "No"
+msgstr "Nei"
+
+#: settings/settings.php:124
+msgid "No idea what is Bootstrap.."
+msgstr "Ingen ide om hva Bootstrap er.."
+
+#: settings/settings.php:153
+msgid "The Soccer Stats uses the date settings defined under main Wordpress settings."
+msgstr "The Soccer Stats bruker dato innstillingene som er satt under hoved Wordpress innstillinger."
+
+#: settings/settings.php:164
+msgid "There is something wrong with the database. Reactivate the plugin."
+msgstr "Der er noen galt med databasen. Re-aktiver utvidelser"
+
+#: settings/settings.php:166
+msgid "The Soccer Stats related database tables are found. Proceed with the plugin... :)"
+msgstr "The Soccer Stats relatert database tabeller er funnet. Fortsett med denne utvidelsen... :)"
+
+#: settings/settings.php:178
+msgid "Modify all match titles like this: date vs. opponent name"
+msgstr "Endre alle kamp titler som dette: Dato vs. motstander navn"
+
+#: settings/settings.php:178
+msgid "Rebuild"
+msgstr "Gjennopprett"
+
+#: templates/single-tss-matches.php:50
+msgid "Match report"
+msgstr "Kamp rapport"
+
+#: templates/single-tss-matches.php:51
+msgid "Team details"
+msgstr "Lagdetaljer"
+
+#: templates/single-tss-opponents.php:23
+msgid "Stats against this opponent"
+msgstr "Statistikk mot denne motstander"
+
+#: templates/single-tss-players.php:28
+msgid "Date of birth: "
+msgstr "Fødselsdato: "
+
+#: templates/single-tss-players.php:29
+msgid "Place of birth: "
+msgstr "Fødselssted: "
+
+#: templates/single-tss-players.php:30
+msgid "Position: "
+msgstr "Posisjon: "
+
+#: templates/single-tss-players.php:31
+msgid "Height: "
+msgstr "Høyde: "
+
+#: templates/single-tss-players.php:32
+msgid "Weight: "
+msgstr "Vekt: "
+
+#: templates/single-tss-players.php:33
+msgid "Previous clubs: "
+msgstr "Tidligere klubber: "
+
+#: templates/single-tss-players.php:34
+msgid "Player description"
+msgstr "Spillerdetaljer"
+
+#: templates/single-tss-players.php:49
+msgid "Stats"
+msgstr "Statistikk"
+
+#: templates/single-tss-players.php:68
+msgid "Latest matches in starting 11"
+msgstr "Siste kamper i startoppstillingen"
+
+#: templates/single-tss-players.php:69
+msgid "Latest matches where scored"
+msgstr "Siste kamper hvor spiller har laget mål"
+
+#: templates/single-tss-players.php:70
+msgid "Latest matches where booked"
+msgstr "Siste kamper hvor spiller har fått gult kort"
+
+#: templates/single-tss-players.php:71
+msgid "Latest matches where sent off"
+msgstr "Siste kamper hvor spiller har fått rødt kort"
+
+#: the-soccer-stats.php:27 the-soccer-stats.php:28
+msgid "The Soccer Stats"
+msgstr ""
+
+#: the-soccer-stats.php:38 the-soccer-stats.php:39
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: the-soccer-stats.php:126
+msgid "Add player description to editor."
+msgstr "Legg til spiller detaljer til editor."
+
+#: the-soccer-stats.php:128
+msgid "Add season name to title."
+msgstr "Legg til sesongnavn til tittelen"
+
+#: the-soccer-stats.php:130
+msgid "Add opponent name to title."
+msgstr "Legg til motstandernavn til tittelen"
+
+#: the-soccer-stats.php:132
+msgid "Add match report to editor below."
+msgstr "Legg til kamprapport til editor under"
+

@@ -1,0 +1,23 @@
+.tss-match-summary {
+	box-sizing: border-box;
+
+	&__editor-preview {
+		background: #f8fafc;
+		border: 1px dashed #b8c6d8;
+		border-radius: 14px;
+		padding: 1rem 1.1rem;
+
+		strong {
+			display: block;
+			font-size: 0.95rem;
+			letter-spacing: 0.04em;
+			margin-bottom: 0.5rem;
+			text-transform: uppercase;
+		}
+
+		p {
+			color: #4e647c;
+			margin: 0;
+		}
+	}
+}

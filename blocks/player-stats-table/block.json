@@ -1,0 +1,24 @@
+{
+  "apiVersion": 3,
+  "name": "tss/player-stats-table",
+  "title": "Player Stats Table",
+  "category": "widgets",
+  "icon": "table-col-after",
+  "description": "Render player statistics for a season.",
+  "textdomain": "tss",
+  "attributes": {
+    "seasonId": {
+      "type": "number",
+      "default": 0
+    },
+    "matchTypeId": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "editorScript": "tss-editor",
+  "render": "file:./render.php",
+  "supports": {
+    "html": false
+  }
+}

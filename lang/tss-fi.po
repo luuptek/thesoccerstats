@@ -1,0 +1,800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Soccer Stats\n"
+"POT-Creation-Date: 2016-09-06 19:20+0300\n"
+"PO-Revision-Date: 2016-09-06 19:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_url__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bower_components\n"
+"X-Poedit-SearchPathExcluded-1: plugins\n"
+
+#: ajax/ajax-admin.php:50 ajax/ajax-admin.php:270 meta-boxes/players.php:168
+msgid "Player added to following seasons:"
+msgstr "Pelaaja lisätty seuraaviin kausiin:"
+
+#: ajax/ajax-admin.php:106 ajax/ajax-admin.php:316 meta-boxes/matches.php:247
+msgid "Substitutions:"
+msgstr "Vaihdot:"
+
+#: ajax/ajax-admin.php:168 ajax/ajax-admin.php:319 meta-boxes/matches.php:269
+msgid "Goals:"
+msgstr "Maalit:"
+
+#: ajax/ajax-admin.php:228 ajax/ajax-admin.php:322 meta-boxes/matches.php:288
+msgid "Yellow cards:"
+msgstr "Keltaiset kortit:"
+
+#: ajax/ajax-admin.php:230 ajax/ajax-admin.php:325 meta-boxes/matches.php:307
+msgid "Red cards:"
+msgstr "Punaiset kortit:"
+
+#: ajax/ajax-admin.php:310 ajax/ajax-admin.php:385 meta-boxes/matches.php:205
+msgid "Current opening lineup:"
+msgstr "Avauskokoonpano:"
+
+#: ajax/ajax-admin.php:313 ajax/ajax-admin.php:387 meta-boxes/matches.php:222
+msgid "Substitutes:"
+msgstr "Vaihdossa:"
+
+#: classes/tssOpponentStats.php:29 meta-boxes/matches.php:59
+msgid "Location"
+msgstr "Paikka"
+
+#: classes/tssOpponentStats.php:30
+msgid "W"
+msgstr "V"
+
+#: classes/tssOpponentStats.php:31
+msgid "D"
+msgstr "T"
+
+#: classes/tssOpponentStats.php:32
+msgid "L"
+msgstr "H"
+
+#: classes/tssOpponentStats.php:33
+msgid "GD"
+msgstr "ME"
+
+#: classes/tssOpponentStats.php:39 meta-boxes/matches.php:64
+msgid "Home"
+msgstr "Koti"
+
+#: classes/tssOpponentStats.php:47 meta-boxes/matches.php:65
+msgid "Away"
+msgstr "Vieras"
+
+#: classes/tssOpponentStats.php:55 meta-boxes/matches.php:66
+msgid "Neutral"
+msgstr "Neutraali"
+
+#: classes/tssOpponentStats.php:66 classes/tssOpponentStats.php:409
+#: classes/tssPlayerSeasonalStatsTable.php:94 functions/players.php:151
+msgid "Total"
+msgstr "Yhteensä"
+
+#: classes/tssOpponentStats.php:79
+msgid "Matches against this opponent"
+msgstr "Ottelut tätä vastustajaa vastaan"
+
+#: classes/tssOpponentStats.php:83 classes/tssSeasonMatchList.php:33
+#: functions/get-matches-by-player.php:137 meta-boxes/matches.php:49
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: classes/tssOpponentStats.php:84 classes/tssSeasonMatchList.php:34
+#: functions/get-matches-by-player.php:138
+msgid "Hometeam"
+msgstr "Kotijoukkue"
+
+#: classes/tssOpponentStats.php:85 classes/tssSeasonMatchList.php:35
+#: functions/get-matches-by-player.php:139
+msgid "Awayteam"
+msgstr "Vierasjoukkue"
+
+#: classes/tssOpponentStats.php:86 classes/tssSeasonMatchList.php:36
+#: functions/get-matches-by-player.php:140
+msgid "Matchtype"
+msgstr "Ottelutyyppi"
+
+#: classes/tssOpponentStats.php:87 classes/tssSeasonMatchList.php:37
+#: functions/get-matches-by-player.php:141
+msgid "Result"
+msgstr "Tulos"
+
+#: classes/tssPlayerSeasonalStatsTable.php:27 meta-boxes/matches.php:87
+#: post-types/post-types.php:22 post-types/post-types.php:24
+msgid "Season"
+msgstr "Kausi"
+
+#: classes/tssPlayerSeasonalStatsTable.php:28
+#: classes/tssplayerstatstable.php:29
+msgid "Starts"
+msgstr "Aloituksessa"
+
+#: classes/tssPlayerSeasonalStatsTable.php:29
+#: classes/tssplayerstatstable.php:30
+msgid "Substitutions in"
+msgstr "Vaihdosta sisään"
+
+#: classes/tssPlayerSeasonalStatsTable.php:30
+#: classes/tssplayerstatstable.php:31 functions/matches.php:127
+#: functions/matches.php:164 meta-boxes/matches.php:255
+#: meta-boxes/matches.php:352
+msgid "Goals"
+msgstr "Maalit"
+
+#: classes/tssPlayerSeasonalStatsTable.php:31
+#: classes/tssplayerstatstable.php:32 functions/matches.php:140
+#: functions/matches.php:166 meta-boxes/matches.php:277
+#: meta-boxes/matches.php:357
+msgid "Yellow cards"
+msgstr "Keltaiset kortit"
+
+#: classes/tssPlayerSeasonalStatsTable.php:32
+#: classes/tssplayerstatstable.php:33 functions/matches.php:144
+#: functions/matches.php:168 meta-boxes/matches.php:296
+#: meta-boxes/matches.php:362
+msgid "Red cards"
+msgstr "Punaiset kortit"
+
+#: classes/tssSeasonMatchList.php:29 post-types/post-types.php:155
+#: post-types/post-types.php:157
+msgid "Matches"
+msgstr "Ottelut"
+
+#: classes/tssfilter.php:22
+msgid "Filter by match type.."
+msgstr "Suodata ottelutyypin mukaan.."
+
+#: classes/tssplayerstatstable.php:24 post-types/post-types.php:111
+#: post-types/post-types.php:113
+msgid "Players"
+msgstr "Pelaajat"
+
+#: functions/admin-related-functions.php:33
+#: functions/admin-related-functions.php:131
+#: functions/admin-related-functions.php:173
+#: functions/admin-related-functions.php:227
+#: functions/admin-related-functions.php:268
+msgid "Delete"
+msgstr "Poista"
+
+#: functions/admin-related-functions.php:37
+#: functions/admin-related-functions.php:69
+#: functions/admin-related-functions.php:135
+#: functions/admin-related-functions.php:179
+#: functions/admin-related-functions.php:233
+#: functions/admin-related-functions.php:274
+msgid "Nothing found from database"
+msgstr "Tietoja ei ole"
+
+#: functions/admin-related-functions.php:169
+msgid "In: "
+msgstr "Sisään:"
+
+#: functions/admin-related-functions.php:170
+msgid "Out: "
+msgstr "Ulos:"
+
+#: functions/admin-related-functions.php:171
+msgid "Minute: "
+msgstr "Minuutti:"
+
+#: functions/admin-related-functions.php:216 functions/matches.php:132
+msgid "pen."
+msgstr "rp."
+
+#: functions/admin-related-functions.php:220 functions/matches.php:136
+msgid "O.G."
+msgstr "OM"
+
+#: functions/get-matches-by-player.php:159
+msgid "None"
+msgstr "Ei yhtään."
+
+#: functions/matches.php:115 functions/matches.php:158
+#: meta-boxes/matches.php:196 meta-boxes/matches.php:337
+msgid "Starters"
+msgstr "Avaus"
+
+#: functions/matches.php:119 functions/matches.php:160
+#: meta-boxes/matches.php:213 meta-boxes/matches.php:342
+msgid "Substitutes"
+msgstr "Vaihdossa"
+
+#: functions/matches.php:123 functions/matches.php:162
+#: meta-boxes/matches.php:230 meta-boxes/matches.php:347
+msgid "Substitutions"
+msgstr "Vaihdot"
+
+#: functions/matches.php:198
+msgid "FT"
+msgstr "90min"
+
+#: functions/matches.php:201 functions/matches.php:247
+msgid "AET"
+msgstr "JA"
+
+#: functions/matches.php:205 functions/matches.php:249
+msgid "PEN."
+msgstr "RPK."
+
+#: functions/players.php:79 meta-boxes/players.php:89
+msgid "Goalkeeper"
+msgstr "Maalivahti"
+
+#: functions/players.php:82 meta-boxes/players.php:92
+msgid "Defender"
+msgstr "Puolustaja"
+
+#: functions/players.php:85 meta-boxes/players.php:95
+msgid "Midfield"
+msgstr "Keskikenttä"
+
+#: functions/players.php:88 meta-boxes/players.php:98
+msgid "Striker"
+msgstr "Hyökkääjä"
+
+#: meta-boxes/matches.php:24
+msgid "Match details"
+msgstr "Ottelun tiedot"
+
+#: meta-boxes/matches.php:25
+msgid "Opponent details"
+msgstr "Vastustajan tiedot"
+
+#: meta-boxes/matches.php:28
+msgid "Your team stats"
+msgstr "Joukkueesi tilastot"
+
+#: meta-boxes/matches.php:54
+msgid "Time"
+msgstr "Aika"
+
+#: meta-boxes/matches.php:101 post-types/post-types.php:200
+#: post-types/post-types.php:202
+msgid "Match type"
+msgstr "Ottelumuoto"
+
+#: meta-boxes/matches.php:115
+msgid "Additional match type"
+msgstr "Ottelumuodon tarkennus"
+
+#: meta-boxes/matches.php:122 templates/single-tss-matches.php:43
+msgid "Attendance"
+msgstr "Yleisömäärä"
+
+#: meta-boxes/matches.php:129 post-types/post-types.php:67
+#: post-types/post-types.php:69
+msgid "Opponent"
+msgstr "Vastustaja"
+
+#: meta-boxes/matches.php:143
+msgid "Goals for"
+msgstr "Tehtyjä maaleja"
+
+#: meta-boxes/matches.php:148
+msgid "Goals against"
+msgstr "Päästettyjä maaleja"
+
+#: meta-boxes/matches.php:153
+msgid "Overtime"
+msgstr "Jatkoaika"
+
+#: meta-boxes/matches.php:158
+msgid "Penalties"
+msgstr "Rangaistuspotkut"
+
+#: meta-boxes/matches.php:159
+msgid "Show/hide pen. goals"
+msgstr "Näytä/piilota rp-maalit"
+
+#: meta-boxes/matches.php:164
+msgid "Goals for (pen.)"
+msgstr "Tehtyjä maaleja (rpk.)"
+
+#: meta-boxes/matches.php:169
+msgid "Goals against (pen.)"
+msgstr "Päästettyjä maaleja (rpk.)"
+
+#: meta-boxes/matches.php:191
+msgid "Calculate stats from this match"
+msgstr "Laske tilastot tästä ottelusta"
+
+#: meta-boxes/matches.php:202 meta-boxes/matches.php:219
+#: meta-boxes/matches.php:244 meta-boxes/matches.php:266
+#: meta-boxes/matches.php:285 meta-boxes/matches.php:304
+#: meta-boxes/players.php:164
+msgid "Add"
+msgstr "Lisää"
+
+#: meta-boxes/matches.php:232
+msgid "In"
+msgstr "Sisään"
+
+#: meta-boxes/matches.php:238
+msgid "Out"
+msgstr "Pois"
+
+#: meta-boxes/matches.php:243 meta-boxes/matches.php:262
+#: meta-boxes/matches.php:284 meta-boxes/matches.php:303
+msgid "Minute"
+msgstr "Minuutti"
+
+#: meta-boxes/matches.php:257
+msgid "Goal scorer:"
+msgstr "Maalintekijä:"
+
+#: meta-boxes/matches.php:263
+msgid "Penalty"
+msgstr "Rangasituspotku"
+
+#: meta-boxes/matches.php:264
+msgid "Own goal"
+msgstr "Oma maali"
+
+#: meta-boxes/matches.php:265
+msgid "Own scorer"
+msgstr "Oman maalin tekijä"
+
+#: meta-boxes/matches.php:332
+msgid "Want to show opponent stats"
+msgstr "Näytetäänkö vastustajan tiedot"
+
+#: meta-boxes/players.php:24
+msgid "Player details"
+msgstr "Pelaajan tiedot"
+
+#: meta-boxes/players.php:27
+msgid "Add player to season"
+msgstr "Lisää pelaaja kauteen"
+
+#: meta-boxes/players.php:47
+msgid "Shirt number"
+msgstr "Paidan numero"
+
+#: meta-boxes/players.php:52
+msgid "Place of birth"
+msgstr "Syntymäpaikka"
+
+#: meta-boxes/players.php:57
+msgid "Height"
+msgstr "Pituus"
+
+#: meta-boxes/players.php:62
+msgid "Weight"
+msgstr "Paino"
+
+#: meta-boxes/players.php:67
+msgid "Date of birth"
+msgstr "Syntymäaika"
+
+#: meta-boxes/players.php:74
+msgid "Player position"
+msgstr "Pelaajan pelipaikka"
+
+#: meta-boxes/players.php:122
+msgid "Previous clubs"
+msgstr "Edelliset seurat"
+
+#: meta-boxes/players.php:141
+msgid "Add or remover player to season."
+msgstr "Lisää tai poista pelaaja kauteen/kaudesta"
+
+#: post-types/post-types.php:21 post-types/post-types.php:23
+msgid "Seasons"
+msgstr "Kaudet"
+
+#: post-types/post-types.php:25 post-types/post-types.php:70
+#: post-types/post-types.php:115 post-types/post-types.php:159
+#: post-types/post-types.php:203
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: post-types/post-types.php:26
+msgid "Add New Season"
+msgstr "Lisää uusi kausi"
+
+#: post-types/post-types.php:27
+msgid "New Season"
+msgstr "Uusi kausi"
+
+#: post-types/post-types.php:28
+msgid "Edit Season"
+msgstr "Muokkaa kautta"
+
+#: post-types/post-types.php:29
+msgid "View Season"
+msgstr "Katso kausi"
+
+#: post-types/post-types.php:30
+msgid "All Seasons"
+msgstr "Kaikki kaudet"
+
+#: post-types/post-types.php:31
+msgid "Search Seasons"
+msgstr "Etsi kausia"
+
+#: post-types/post-types.php:32
+msgid "Parent Seasons:"
+msgstr "Parent kaudet"
+
+#: post-types/post-types.php:33
+msgid "No Seasons found."
+msgstr "Kausia ei löytynyt"
+
+#: post-types/post-types.php:34
+msgid "No Seasons found in Trash."
+msgstr "Kausia ei löytynyt roskakorista"
+
+#: post-types/post-types.php:39
+msgid "The Soccer Stats seasons."
+msgstr "The Soccer Stats kaudet."
+
+#: post-types/post-types.php:45
+msgid "season"
+msgstr "kausi"
+
+#: post-types/post-types.php:66 post-types/post-types.php:68
+msgid "Opponents"
+msgstr "Vastustajat"
+
+#: post-types/post-types.php:71
+msgid "Add New Opponent"
+msgstr "Lisää uusi vastustaja"
+
+#: post-types/post-types.php:72
+msgid "New Opponent"
+msgstr "Uusi vastustaja"
+
+#: post-types/post-types.php:73
+msgid "Edit Opponent"
+msgstr "Muokkaa vastustajaa"
+
+#: post-types/post-types.php:74
+msgid "View Opponent"
+msgstr "Katso vastustaja"
+
+#: post-types/post-types.php:75
+msgid "All Opponents"
+msgstr "Kaikki vastustajat"
+
+#: post-types/post-types.php:76
+msgid "Search Opponents"
+msgstr "Etsi vastustajia"
+
+#: post-types/post-types.php:77
+msgid "Parent Opponents:"
+msgstr "Parent vastustajat"
+
+#: post-types/post-types.php:78
+msgid "No Opponents found."
+msgstr "Vastustajia ei löytynyt"
+
+#: post-types/post-types.php:79
+msgid "No Opponents found in Trash."
+msgstr "Vastustajia ei löytynyt roskakorista."
+
+#: post-types/post-types.php:84
+msgid "The Soccer Stats opponents."
+msgstr "The Soccer Stats vastustajat"
+
+#: post-types/post-types.php:90
+msgid "opponent"
+msgstr "vastustaja"
+
+#: post-types/post-types.php:112 post-types/post-types.php:114
+msgid "Player"
+msgstr "Pelaaja"
+
+#: post-types/post-types.php:116
+msgid "Add New Player"
+msgstr "Lisää uusi pelaaja"
+
+#: post-types/post-types.php:117
+msgid "New Player"
+msgstr "Uusi pelaaja"
+
+#: post-types/post-types.php:118
+msgid "Edit Player"
+msgstr "Muokkaa pelaajaa"
+
+#: post-types/post-types.php:119
+msgid "View Player"
+msgstr "Katso pelaaja"
+
+#: post-types/post-types.php:120
+msgid "All Players"
+msgstr "Kaikki pelaajat"
+
+#: post-types/post-types.php:121
+msgid "Search Players"
+msgstr "Etsi pelaajia"
+
+#: post-types/post-types.php:122
+msgid "Parent Players:"
+msgstr "Parent pelaajat:"
+
+#: post-types/post-types.php:123
+msgid "No Players found."
+msgstr "Pelaajia ei löytynyt."
+
+#: post-types/post-types.php:124
+msgid "No Players found in Trash."
+msgstr "Pelaajia ei löytynyt roskakorista."
+
+#: post-types/post-types.php:129
+msgid "The Soccer Stats players."
+msgstr "The Soccer Stats pelaajat."
+
+#: post-types/post-types.php:135
+msgid "player"
+msgstr "pelaaja"
+
+#: post-types/post-types.php:156 post-types/post-types.php:158
+msgid "Match"
+msgstr "Ottelu"
+
+#: post-types/post-types.php:160
+msgid "Add New Match"
+msgstr "Lisää uusi ottelu"
+
+#: post-types/post-types.php:161
+msgid "New Match"
+msgstr "Uusi ottelu"
+
+#: post-types/post-types.php:162
+msgid "Edit Match"
+msgstr "Muokkaa ottelua"
+
+#: post-types/post-types.php:163
+msgid "View Match"
+msgstr "Katso ottelu"
+
+#: post-types/post-types.php:164
+msgid "All Matches"
+msgstr "Kaikki ottelut"
+
+#: post-types/post-types.php:165
+msgid "Search Matches"
+msgstr "Etsi otteluita"
+
+#: post-types/post-types.php:166
+msgid "Parent Matches:"
+msgstr "Parent ottelut"
+
+#: post-types/post-types.php:167
+msgid "No matches found."
+msgstr "Otteluita ei löytynyt."
+
+#: post-types/post-types.php:168
+msgid "No matches found in Trash."
+msgstr "Otteluita ei löytynyt roskakorista."
+
+#: post-types/post-types.php:173
+msgid "The Soccer Stats Matches."
+msgstr "The Soccer Stats ottelut."
+
+#: post-types/post-types.php:179
+msgid "match"
+msgstr "ottelu"
+
+#: post-types/post-types.php:199 post-types/post-types.php:201
+msgid "Match types"
+msgstr "Ottelumuodot"
+
+#: post-types/post-types.php:204
+msgid "Add New Match Type"
+msgstr "Lisää uusi ottelumuoto"
+
+#: post-types/post-types.php:205
+msgid "New Match Type"
+msgstr "Uusi ottelumuoto"
+
+#: post-types/post-types.php:206
+msgid "Edit Match Type"
+msgstr "Muokkaa ottelumuotoa"
+
+#: post-types/post-types.php:207
+msgid "View Match Type"
+msgstr "Katso ottelumuoto"
+
+#: post-types/post-types.php:208
+msgid "All Match Types"
+msgstr "Kaikka ottelumuodot"
+
+#: post-types/post-types.php:209
+msgid "Search Match Types"
+msgstr "Etsi ottelumuotoja"
+
+#: post-types/post-types.php:210
+msgid "Parent Match Types:"
+msgstr "Parent ottelumuodot:"
+
+#: post-types/post-types.php:211
+msgid "No Match Types found."
+msgstr "Ottelumuotoja ei löytynyt."
+
+#: post-types/post-types.php:212
+msgid "No Match Types found in Trash."
+msgstr "Ottelumuotoja ei löytynyt roskakorista."
+
+#: post-types/post-types.php:217
+msgid "The Soccer Stats match types."
+msgstr "The Soccer Stats ottelumuodot."
+
+#: post-types/post-types.php:223
+msgid "matchtype"
+msgstr "ottelumuoto"
+
+#: settings/settings.php:27
+msgid "Settings for The Soccer Stats"
+msgstr "The Soccer Stats asetukset"
+
+#: settings/settings.php:40
+msgid "The Soccer Stats options"
+msgstr "The Soccer Stats valinnat"
+
+#: settings/settings.php:41
+msgid "My team?"
+msgstr "Joukkueeni?"
+
+#: settings/settings.php:42
+msgid "How to show the content in site?"
+msgstr "Miten sisältö näytetään?"
+
+#: settings/settings.php:43
+msgid "Do you have Bootstrap installed to your theme?"
+msgstr "Onko Boostrap asennettu jo teemaasi?"
+
+#: settings/settings.php:44
+msgid "Date settings?"
+msgstr "Päivämäärä asetukset?"
+
+#: settings/settings.php:45
+msgid "The Soccer Stats installation"
+msgstr "The Soccer Stats asennus"
+
+#: settings/settings.php:46
+msgid "Rebuild match titles"
+msgstr "Muokkaa otteluiden otsikot"
+
+#: settings/settings.php:89
+msgid "Use container - content is fixed based on window width"
+msgstr ""
+"Käytä containeria - sisällön leveys määritetään ikkunan leveyden mukaan"
+
+#: settings/settings.php:90
+msgid "Whole width"
+msgstr "Koko leveys"
+
+#: settings/settings.php:122
+msgid "Yes"
+msgstr "Kyllä"
+
+#: settings/settings.php:123
+msgid "No"
+msgstr "Ei"
+
+#: settings/settings.php:124
+msgid "No idea what is Bootstrap.."
+msgstr "En tiedä, mikä on Bootstrap.."
+
+#: settings/settings.php:153
+msgid ""
+"The Soccer Stats uses the date settings defined under main Wordpress "
+"settings."
+msgstr "The Soccer Stats käyttää Wordpressin omaa päivämääräasetusta."
+
+#: settings/settings.php:164
+msgid "There is something wrong with the database. Reactivate the plugin."
+msgstr "Tietokannassa on jokin vika. Aktivoi lisäosa uudelleen."
+
+#: settings/settings.php:166
+msgid ""
+"The Soccer Stats related database tables are found. Proceed with the "
+"plugin... :)"
+msgstr "Tietokanta kunnossa. Voit jatkaa työskentelyä.. :)"
+
+#: settings/settings.php:178
+msgid "Modify all match titles like this: date vs. opponent name"
+msgstr "Muokkaa otteluiden otsikot näin: pvm vs. vastustaja"
+
+#: settings/settings.php:178
+msgid "Rebuild"
+msgstr "Muokkaa uudelleen"
+
+#: templates/single-tss-matches.php:50
+msgid "Match report"
+msgstr "Otteluraportti"
+
+#: templates/single-tss-matches.php:51
+msgid "Team details"
+msgstr "Joukkueen tiedot"
+
+#: templates/single-tss-opponents.php:23
+msgid "Stats against this opponent"
+msgstr "Tilastot tätä vastustajaa vastaan"
+
+#: templates/single-tss-players.php:28
+msgid "Date of birth: "
+msgstr "Syntymäaika:"
+
+#: templates/single-tss-players.php:29
+msgid "Place of birth: "
+msgstr "Syntymäpaikka:"
+
+#: templates/single-tss-players.php:30
+msgid "Position: "
+msgstr "Pelipaikka:"
+
+#: templates/single-tss-players.php:31
+msgid "Height: "
+msgstr "Pituus:"
+
+#: templates/single-tss-players.php:32
+msgid "Weight: "
+msgstr "Paino:"
+
+#: templates/single-tss-players.php:33
+msgid "Previous clubs: "
+msgstr "Edelliset seurat:"
+
+#: templates/single-tss-players.php:34
+msgid "Player description"
+msgstr "Kuvaus"
+
+#: templates/single-tss-players.php:49
+msgid "Stats"
+msgstr "Tilastot"
+
+#: templates/single-tss-players.php:68
+msgid "Latest matches in starting 11"
+msgstr "Viimeiset ottelut aloituksessa"
+
+#: templates/single-tss-players.php:69
+msgid "Latest matches where scored"
+msgstr "Viimeiset ottelut, missä tehnyt maalin"
+
+#: templates/single-tss-players.php:70
+msgid "Latest matches where booked"
+msgstr "Viimeiset ottelut, missä varoitettu"
+
+#: templates/single-tss-players.php:71
+msgid "Latest matches where sent off"
+msgstr "Viimeiset ottelut, missä saanut punaisen kortin"
+
+#: the-soccer-stats.php:27 the-soccer-stats.php:28
+msgid "The Soccer Stats"
+msgstr "The Soccer Stats"
+
+#: the-soccer-stats.php:38 the-soccer-stats.php:39
+msgid "Settings"
+msgstr "Asetukset"
+
+#: the-soccer-stats.php:126
+msgid "Add player description to editor."
+msgstr "Lisää pelaajan kuvaus editoriin."
+
+#: the-soccer-stats.php:128
+msgid "Add season name to title."
+msgstr "Lisää kauden nimi otsikkoon."
+
+#: the-soccer-stats.php:130
+msgid "Add opponent name to title."
+msgstr "Lisää vastustajan nimi otsikkoon."
+
+#: the-soccer-stats.php:132
+msgid "Add match report to editor below."
+msgstr "Lisää otteluraportti alla olevaan editoriin."

@@ -1,0 +1,16 @@
+{
+  "name": "the-soccer-stats",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Modern block-based WordPress plugin for football stats.",
+  "scripts": {
+    "build": "wp-scripts build --webpack-copy-php --blocks-manifest",
+    "start": "wp-scripts start --webpack-copy-php --blocks-manifest",
+    "lint:js": "wp-scripts lint-js resources/js",
+    "lint:css": "wp-scripts lint-style resources/css",
+    "format": "wp-scripts format resources/js resources/css includes blocks"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^30.12.0"
+  }
+}

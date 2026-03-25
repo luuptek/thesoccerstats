@@ -1,0 +1,36 @@
+{
+  "apiVersion": 3,
+  "name": "tss/match-summary",
+  "title": "Match Summary",
+  "category": "widgets",
+  "icon": "chart-bar",
+  "description": "Render a match summary card anywhere.",
+  "textdomain": "tss",
+  "attributes": {
+    "useCurrent": {
+      "type": "boolean",
+      "default": true
+    },
+    "matchId": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "supports": {
+    "html": false,
+    "reusable": true,
+    "align": [
+      "full",
+      "wide"
+    ],
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "blockGap": false
+    }
+  }
+}
